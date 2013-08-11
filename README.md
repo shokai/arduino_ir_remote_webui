@@ -7,7 +7,7 @@ controll IR Learning Remote via Web.
 Dependencies
 ------------
 - Ruby 1.8.7 ~ 2.0.0
-
+- [Arduino IR Remote](https://github.com/shokai/arduino_ir_remote)
 
 Install Dependencies
 --------------------
