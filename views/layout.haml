@@ -17,6 +17,7 @@
       %hr
       %div#footer
         != yield_content :footer
+        ArduinoIrRemote v#{ArduinoIrRemote::VERSION} -
         - url = "https://github.com/shokai/arduino_ir_remote"
         %a{:href => url}= url
     != yield_content :html_foot
