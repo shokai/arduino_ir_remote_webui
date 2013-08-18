@@ -1,10 +1,9 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    arduino_ir_remote (0.0.2)
+    arduino_ir_remote (0.1.0)
       args_parser
       event_emitter
-      hashie
       serialport
     args_parser (0.1.6)
     backports (3.3.3)
